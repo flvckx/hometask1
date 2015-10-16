@@ -6,15 +6,12 @@
 //  Copyright © 2015 geekhub. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
 int main(int argc, char * argv[]) {
-	// Task 1
-	
-	
-	// Task 2
-	
-	
-	// Task 3
+    
+    @throw NSInternalInconsistencyException;
+  
 	return 0;
 }
